@@ -13,15 +13,13 @@
 meu nome é **Alison da Silva**, sou aficionado pelo mundo tecnológico. Comecei a estudar sobre programação entre 2019/2020 e desde então venho aprendendo de forma autodidata e buscando melhorar minhas habilidades como desenvolvedor.
 
 - 🖥️: focado em desenvolvimento web back-end.
-- 🌱: atualmente estou conhecendo `java` e aprofundando meus conhecimentos em ` Django ` .
-- 🔎: tenho interesses em outras áreas da tecnologia como mobile e IA.
-- 👥: faço parte da equipe de **staff** da comunidade **Vacuum**, quem tem como objetivo ajudar os desenvolvedores.
-    - <a href="https://discord.gg/vacuum"><img src="https://img.shields.io/badge/Vacuum-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+- 🌱: atualmente estou aprofundando meus conhecimentos em ` Django ` .
+- 🔎: tenho interesses em outras áreas da tecnologia.
 
 ### Tech Skills 🛠️
 <p align="center">
     <a>
-        <img src="https://skillicons.dev/icons?i=python,django,java&theme=dark">
+        <img src="https://skillicons.dev/icons?i=python,django&theme=dark">
     </a>
 </p>
 <p align="center">
