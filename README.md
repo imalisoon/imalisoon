@@ -2,7 +2,6 @@
     <a href="https://linkedin.com/in/alison-silva-434972201">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
     </a>
-
     <a href="mailto: alisondasilva291103@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail&theme=dark">
     </a>
@@ -33,12 +32,15 @@ meu nome é **Alison da Silva**, sou aficionado pelo mundo tecnológico. Comecei
 </p>
 
 ### GitHub
+|---
 <p align="center">
     <a href="">
         <img src="https://github-readme-stats.vercel.app/api?username=imalisoon&show_icons=true&theme=github_dark">
     </a>
+|---
     <a href="">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalisoon&layout=compact&theme=github_dark">
     </a>
 </p>
+|---
 
