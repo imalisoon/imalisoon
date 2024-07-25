@@ -1,15 +1,15 @@
-<div style="height: 70px;background: linear-gradient(transparent,#121a31);border-bottom:2px solid #1d48fc;margin-bottom: 10px;">
-<p align="center">
-    <a href="https://github.com/imalisoon" >
-        <img src="https://skillicons.dev/icons?i=github&theme=dark">
-    </a>
-    <a href="https://linkedin.com/in/alison-silva-434972201" >
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
-    </a>
-</p>
+<div>
+    <p align="center">
+        <a href="https://github.com/imalisoon">
+            <img src="https://skillicons.dev/icons?i=github&theme=dark">
+        </a>
+        <a href="https://linkedin.com/in/alison-silva-434972201" >
+            <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
+        </a>
+    </p>
 </div>
 
-## Opa 👋🏾!
+## Hi there 👋🏾!
 meu nome é **Alison da Silva**, sou aficionado pelo mundo tecnológico. Comecei a estudar sobre programação entre 2019/2020 e desde então venho aprendendo de forma autodidata e buscando melhorar minhas habilidades como desenvolvedor.
 
 - 🖥️: focado em desenvolvimento web back-end.
