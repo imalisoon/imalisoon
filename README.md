@@ -8,11 +8,11 @@
 </p>
 
 ## Hi there 👋🏾!
-My name is **Alison**, i'm self-taught web developer exploring *back-end* development building web systems and APIs with python django and fastapi.
+My name is **Alison**, i'm self-taught web developer exploring *back-end development* building web systems and APIs with `python`, `django` and `fastapi`.
 
-- 🌱: currently studying the ` Django Framework ` .
-- 🔎: AI enthusiast and learning about.
-- learning english...
+- 🌱: Currently studying the ` Django Framework ` and  `back-end` concepts.
+- 🤖: **AI** enthusiast and learning about.
+- 🗣️: Learning english...(basic level 🚀)
 
 ### Tech Skills 🛠️
 <p>
